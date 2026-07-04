@@ -40,3 +40,18 @@ The OSI model solves this problem by:
 ## 🖼️ OSI Model Diagram
 
 ![OSI Model](images/OSI_model.png)
+
+## 🔄 Data Flow
+
+```mermaid
+flowchart TD
+A[Application]
+B[Presentation]
+C[Session]
+D[Transport]
+E[Network]
+F[Data Link]
+G[Physical]
+
+A --> B --> C --> D --> E --> F --> G
+```
