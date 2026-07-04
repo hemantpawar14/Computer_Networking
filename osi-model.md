@@ -170,3 +170,47 @@ Determines the best path for data.
 ### Example
 
 Routers use IP addresses to forward packets across networks.
+
+## 2️⃣ Data Link Layer
+
+### Purpose
+
+Data Link Layer Transfers data between two directly connected devices.
+
+### Responsibilities
+
+- MAC addressing
+- Error detection
+- Frame creation
+
+### Devices
+
+- Switch
+- Bridge
+
+### Example
+
+A switch forwards frames using MAC addresses.
+
+## 1️⃣ Physical Layer
+
+### Purpose
+
+The Physical Layer is the layer that handles the actual physical equipment and electrical signals used to send data.
+Transmits raw bits over physical media.
+
+### Responsibilities
+
+- Electrical signals
+- Fiber optics
+- Radio signals
+
+### Devices
+
+- Hub
+- Repeater
+- Cable
+
+### Example
+
+Ethernet cables carry bits between computers.
