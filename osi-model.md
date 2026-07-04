@@ -55,3 +55,36 @@ G[Physical]
 
 A --> B --> C --> D --> E --> F --> G
 ```
+
+# 📚 Seven Layers of the OSI Model
+
+## 7️⃣ Application Layer
+
+### Purpose
+
+Application layer provides network services directly to end users and applications.
+
+### Responsibilities
+
+- Email
+- Web browsing
+- File transfer
+- Remote login
+
+### Protocols used in Application Layer
+
+- HTTP
+- HTTPS
+- FTP
+- SMTP
+- DNS
+
+### Devices
+
+- Computer
+- Mobile
+- Browser
+
+### Real-Life Example
+
+When you open YouTube in your browser, the request starts from the Application Layer.
