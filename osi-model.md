@@ -88,3 +88,85 @@ Application layer provides network services directly to end users and applicatio
 ### Real-Life Example
 
 When you open YouTube in your browser, the request starts from the Application Layer.
+
+## 6️⃣ Presentation Layer
+
+### Purpose
+
+Converts data into a readable format.
+
+### Responsibilities
+
+- Encryption
+- Decryption
+- Compression
+- Data translation
+
+### Example
+
+HTTPS encrypts data before sending it.
+
+## 5️⃣ Session Layer
+
+### Purpose
+
+The Session layer is the layer that start, manage and end conversation between two devices on a network. 
+
+### Responsibilities
+
+- Session establishment
+- Synchronization
+- Session termination
+
+### Example
+
+A Zoom meeting remains active because of the Session Layer.
+
+## 4️⃣ Transport Layer
+
+### Purpose
+
+The Transport Layer is the layer that delivers your data reliably and in the correct order from one device to another.
+
+Ensures reliable data transfer.
+
+### Responsibilities
+
+- Error checking
+- Flow control
+- Segmentation
+- Reassembly
+
+### Protocols used in Transport Layer
+
+- TCP (Transport Control Protocol)
+- UDP (User Datagram Protocol)
+
+### Example
+
+While downloading a file, TCP ensures that all packets arrive correctly.
+
+## 3️⃣ Network Layer
+
+### Purpose
+
+The Network Layer is the layer that finds the best path for data to travel across different networks from the sender to the receiver.
+Determines the best path for data.
+
+### Responsibilities
+
+- Routing
+- Logical addressing
+- Packet forwarding
+
+### Protocol
+
+- IP (Internet Protocol)
+
+### Devices
+
+- Router
+
+### Example
+
+Routers use IP addresses to forward packets across networks.
