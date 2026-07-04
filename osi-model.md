@@ -6,4 +6,4 @@ OSI Model plays a main role in Computer Networking.
 
 ## Diagram
 
-![OSI Model](images/CN_example.png)
+![Computer Networking](images/CN_example.png)
