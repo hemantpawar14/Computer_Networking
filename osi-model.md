@@ -22,3 +22,16 @@ It divides the communication process into **7 different layers**, where each lay
 The main purpose of the OSI model is to ensure that hardware and software from different vendors can communicate with each other.
 
 Although the Internet mainly follows the TCP/IP model, the OSI model is widely used for learning networking concepts and troubleshooting network issues.
+
+
+## 🎯 Why Do We Need the OSI Model?
+
+Before the OSI model, every company developed its own networking protocols, making communication between different devices difficult.
+
+The OSI model solves this problem by:
+
+- Standardizing communication
+- Reducing complexity
+- Improving interoperability
+- Simplifying troubleshooting
+- Allowing independent development of each layer
