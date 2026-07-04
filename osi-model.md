@@ -35,3 +35,8 @@ The OSI model solves this problem by:
 - Improving interoperability
 - Simplifying troubleshooting
 - Allowing independent development of each layer
+
+
+## 🖼️ OSI Model Diagram
+
+![OSI Model](images/OSI_model.png)
