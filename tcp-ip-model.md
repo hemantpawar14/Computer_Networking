@@ -36,7 +36,7 @@ your device uses the **TCP/IP protocol suite**.
 
 Without TCP/IP, the Internet would not exist.
 
-## 🖼️ OSI Model Diagram
+## 🖼️ TCP-IP Model Diagram
 
 ![ICP-TP Model](images/ICP-IP_Model.png)
 
@@ -82,3 +82,37 @@ TCP/IP
 - Sends data
 - Delivers correctly
 
+
+# 4. Features of TCP/IP
+
+✔ Reliable communication
+✔ Error detection
+✔ Packet switching
+✔ Scalability
+✔ Platform independent
+✔ Open standard
+✔ Supports routing
+✔ End-to-end communication
+✔ Fault tolerant
+✔ Supports multiple applications
+
+
+# 5. TCP/IP Architecture
+
+```
+
+Application Layer
+↓
+Transport Layer
+↓
+Internet Layer
+↓
+Network Access Layer
+↓
+Physical Network
+
+```
+
+Unlike the OSI Model (7 layers), TCP/IP has **4 layers**.
+
+---
