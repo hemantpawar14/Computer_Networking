@@ -36,9 +36,9 @@ your device uses the **TCP/IP protocol suite**.
 
 Without TCP/IP, the Internet would not exist.
 
-## Diagram
+## 🖼️ OSI Model Diagram
 
-![TCP-IP_Model](images/TCP-IP_Model.png)
+![OSI Model](images/OSI_model.png)
 
 
 # 2. What is TCP/IP?
