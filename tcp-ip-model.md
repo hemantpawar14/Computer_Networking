@@ -425,3 +425,43 @@ Converts Frame into Bits
 ```
 
 ---
+
+
+
+# 8. Data Flow in TCP/IP Model
+
+The following flowchart illustrates how data travels from the sender to the receiver through the TCP/IP layers.
+
+```mermaid
+flowchart TD
+
+A["👤 User Creates Data<br/>(Message)"]
+
+A --> B["📱 Application Layer<br/>Protocols: HTTP, HTTPS, FTP, SMTP, DNS"]
+
+B --> C["🚚 Transport Layer<br/>Adds TCP/UDP Header<br/>Data Unit: Segment"]
+
+C --> D["🌐 Internet Layer<br/>Adds IP Header<br/>Data Unit: Packet"]
+
+D --> E["🔗 Network Access Layer<br/>Adds MAC Header & Trailer<br/>Data Unit: Frame"]
+
+E --> F["⚡ Physical Medium<br/>Converts Frame into Bits<br/>1010101010..."]
+
+F --> G["🌍 Network<br/>Internet / Router / Switch"]
+
+G --> H["⚡ Receiver Receives Bits"]
+
+H --> I["🔗 Network Access Layer<br/>Removes MAC Header & Trailer"]
+
+I --> J["🌐 Internet Layer<br/>Removes IP Header"]
+
+J --> K["🚚 Transport Layer<br/>Removes TCP/UDP Header"]
+
+K --> L["📱 Application Layer<br/>Original Message Delivered"]
+
+L --> M["👤 Receiver Reads Data"]
+```
+
+---
+
+
