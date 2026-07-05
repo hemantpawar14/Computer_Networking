@@ -36,6 +36,11 @@ your device uses the **TCP/IP protocol suite**.
 
 Without TCP/IP, the Internet would not exist.
 
+## Diagram
+
+![Computer Networking](images/TCP-IP Model.png)
+
+
 # 2. What is TCP/IP?
 
 **TCP/IP** stands for
