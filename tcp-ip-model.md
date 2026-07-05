@@ -38,7 +38,7 @@ Without TCP/IP, the Internet would not exist.
 
 ## Diagram
 
-![TCP-IP Model](images/TCP-IP_Model.png)
+![TCP-IP_Model](images/TCP-IP_Model.png)
 
 
 # 2. What is TCP/IP?
