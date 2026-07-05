@@ -379,3 +379,49 @@ Bits
 
 ---
 
+
+# 7. Encapsulation Process in TCP/IP Model
+
+> **Definition:**
+>
+> **Encapsulation = Wrapping data with the necessary information at each layer so it can travel safely and reach the correct destination.**
+
+---
+# 📊 Encapsulation Process
+
+```text
+Application Layer
+        │
+        ▼
+   Message (Data)
+        │
+        ▼
+Transport Layer
+Adds TCP/UDP Header
+        │
+        ▼
+      Segment
+        │
+        ▼
+Internet Layer
+Adds IP Header
+        │
+        ▼
+      Packet
+        │
+        ▼
+Network Access Layer
+Adds MAC Header + Trailer
+        │
+        ▼
+      Frame
+        │
+        ▼
+Physical Medium
+Converts Frame into Bits
+        │
+        ▼
+101010101010101...
+```
+
+---
