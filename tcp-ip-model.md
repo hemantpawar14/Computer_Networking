@@ -178,4 +178,204 @@ from the OSI model.
 
 ---
 
+# Layer 3 — Transport Layer
+
+## Purpose
+
+Provides end-to-end communication between devices.
+
+This layer ensures:
+
+- Reliable delivery
+- Error checking
+- Flow control
+- Segmentation
+- Reassembly
+
+---
+
+## Main Protocols
+
+### TCP (Transmission Control Protocol)
+
+Reliable protocol.
+
+Features
+
+- Connection-oriented
+- Error recovery
+- Flow control
+- Acknowledgement
+- Retransmission
+
+Examples
+
+- Gmail
+- Banking
+- Online shopping
+- WhatsApp messages
+
+---
+
+### UDP (User Datagram Protocol)
+
+Unreliable protocol.
+
+Features
+
+- Fast
+- No acknowledgements
+- No retransmission
+- Low overhead
+
+Examples
+
+- Online games
+- Video calls
+- Live streaming
+- DNS queries
+
+---
+
+## Data Unit
+
+**Segment**
+
+---
+
+# Layer 2 — Internet Layer
+
+## Purpose
+
+Responsible for logical addressing and routing.
+
+It decides
+
+> Which path should packets take?
+
+---
+
+## Responsibilities
+
+- IP addressing
+- Routing
+- Packet forwarding
+- Fragmentation
+
+---
+
+## Protocols
+
+### IP
+
+Provides logical addressing.
+
+Versions
+
+- IPv4 (Internet Protocol version 4)
+- IPv6 (Internet Protocol version 6)
+
+---
+
+### ICMP
+
+Used for
+
+- Ping
+- Error messages
+
+---
+
+### ARP
+
+Converts
+
+IP Address
+
+↓
+
+MAC Address
+
+---
+
+### RARP
+
+Converts
+
+MAC Address
+
+↓
+
+IP Address
+
+---
+
+### IGMP
+
+Used for multicast communication.
+
+---
+
+## Devices
+
+Routers
+
+---
+
+## Data Unit
+
+**Packet**
+
+---
+
+# Layer 1 — Network Access Layer
+
+Also called
+
+- Link Layer
+- Network Interface Layer
+
+---
+
+## Purpose
+
+Responsible for sending bits over the physical network.
+
+---
+
+## Responsibilities
+
+- Framing
+- MAC Addressing
+- Error detection
+- Physical transmission
+
+---
+
+## Technologies
+
+- Ethernet
+- Wi-Fi
+- Fiber
+- Bluetooth
+
+---
+
+## Devices
+
+- Switch
+- Hub
+- NIC
+
+---
+
+## Data Unit
+
+Frame
+
+Then converted into
+
+Bits
+
+---
 
