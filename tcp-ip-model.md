@@ -116,3 +116,66 @@ Physical Network
 Unlike the OSI Model (7 layers), TCP/IP has **4 layers**.
 
 ---
+
+# 6. Four Layers of TCP/IP
+
+---
+# Layer 4 — Application Layer
+
+## Purpose
+
+Provides services directly to user applications.
+
+It combines the functions of
+
+- Application
+- Presentation
+- Session
+
+from the OSI model.
+
+---
+
+## Responsibilities
+
+- Email
+- Web browsing
+- File transfer
+- Remote login
+- Name resolution
+
+---
+
+## Common Protocols
+
+| Protocol | Full Form | Purpose |
+|-----------|----------|----------|
+| HTTP | HyperText Transfer Protocol | Web browsing |
+| HTTPS | HTTP Secure | Secure websites |
+| FTP | File Transfer Protocol | File transfer |
+| SMTP | Simple Mail Transfer Protocol | Send emails |
+| POP3 | Post Office Protocol | Receive email |
+| IMAP | Internet Message Access Protocol | Manage emails |
+| DNS | Domain Name System | Converts domain names to IP addresses |
+| DHCP | Dynamic Host Configuration Protocol | Assigns IP addresses |
+| SSH | Secure Shell | Secure remote login |
+| Telnet | Remote login | Unsecured remote access |
+
+---
+
+## Data Unit
+
+**Message**
+
+---
+
+## Devices Used
+
+- Computer
+- Mobile
+- Laptop
+- Server
+
+---
+
+
