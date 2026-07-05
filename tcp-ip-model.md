@@ -14,7 +14,7 @@
 6. Four Layers of TCP/IP
 7. Encapsulation Process
 8. Data Flow in TCP/IP
-9. Protocols in Each Layer
+9. Interview Questions
 
 ---
 
@@ -464,4 +464,77 @@ L --> M["👤 Receiver Reads Data"]
 
 ---
 
+
+# 9. Interview Questions ->
+
+### Q1. What is TCP/IP?
+
+A protocol suite used for communication over the Internet.
+
+---
+
+### Q2. How many layers are in TCP/IP?
+
+4 Layers.
+
+---
+
+### Q3. Which layer provides routing?
+
+Internet Layer.
+
+---
+
+### Q4. Which protocol provides reliable communication?
+
+TCP.
+
+---
+
+### Q5. Which protocol is faster?
+
+UDP.
+
+---
+
+### Q6. Which protocol converts domain names into IP addresses?
+
+DNS.
+
+---
+
+### Q7. Which protocol assigns IP addresses automatically?
+
+DHCP.
+
+---
+
+### Q8. What is encapsulation?
+
+Adding headers at each layer before transmitting data.
+
+---
+
+### Q9. What is decapsulation?
+
+Removing headers at each layer when data is received.
+
+---
+
+### Q10. Which layer communicates with applications?
+
+Application Layer.
+
+---
+
+# 10. Summary
+
+- TCP/IP is the foundation of the Internet.
+- It consists of four layers: Application, Transport, Internet, and Network Access.
+- TCP provides reliable communication, while IP handles addressing and routing.
+- Data is encapsulated before transmission and decapsulated upon reception.
+- Common protocols include HTTP, HTTPS, DNS, FTP, TCP, UDP, and IP.
+- TCP/IP is scalable, reliable, and universally adopted for network communication.
+
+---
 
