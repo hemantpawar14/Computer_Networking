@@ -18,3 +18,21 @@
 10. Protocols in Each Layer
 
 ---
+
+# 1. Introduction
+
+The **TCP/IP Model** is the standard communication model used on the Internet.
+
+It defines **how computers communicate with each other** over a network.
+
+Whenever you:
+
+- Open Google
+- Watch YouTube
+- Send WhatsApp messages
+- Browse Instagram
+- Download files
+
+your device uses the **TCP/IP protocol suite**.
+
+Without TCP/IP, the Internet would not exist.
