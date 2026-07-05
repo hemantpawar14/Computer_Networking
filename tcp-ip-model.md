@@ -8,14 +8,13 @@
 
 1. Introduction
 2. What is TCP/IP?
-3. History of TCP/IP
-4. Why TCP/IP is Important?
-5. Features of TCP/IP
-6. TCP/IP Architecture
-7. Four Layers of TCP/IP
-8. Encapsulation Process
-9. Data Flow in TCP/IP
-10. Protocols in Each Layer
+3. Why TCP/IP is Important?
+4. Features of TCP/IP
+5. TCP/IP Architecture
+6. Four Layers of TCP/IP
+7. Encapsulation Process
+8. Data Flow in TCP/IP
+9. Protocols in Each Layer
 
 ---
 
@@ -36,3 +35,45 @@ Whenever you:
 your device uses the **TCP/IP protocol suite**.
 
 Without TCP/IP, the Internet would not exist.
+
+# 2. What is TCP/IP?
+
+**TCP/IP** stands for
+
+- **TCP** → Transmission Control Protocol
+- **IP** → Internet Protocol
+
+It is a collection (suite) of networking protocols used for communication between computers.
+
+### Definition
+
+> TCP/IP is a protocol suite that provides reliable communication and data transfer over interconnected networks.
+
+---
+
+
+# 3. Why TCP/IP is Important?
+
+Imagine sending a courier.
+
+You write:
+
+- Sender Address
+- Receiver Address
+
+The courier company:
+
+- Packs
+- Transfers
+- Routes
+- Delivers
+
+Similarly,
+
+TCP/IP
+
+- Creates data
+- Adds addresses
+- Sends data
+- Delivers correctly
+
