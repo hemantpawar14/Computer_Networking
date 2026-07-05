@@ -38,7 +38,7 @@ Without TCP/IP, the Internet would not exist.
 
 ## 🖼️ OSI Model Diagram
 
-![OSI Model](images/OSI_model.png)
+![OSI Model](images/ICP-IP_Model.png)
 
 
 # 2. What is TCP/IP?
