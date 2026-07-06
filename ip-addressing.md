@@ -104,3 +104,9 @@ Every IPv4 address consists of two logical parts:
 - Not directly accessible from the Internet.
 - Conserves public IP addresses.
 
+---
+
+## Overview
+
+![IP Addressing](images/IP_Addressing.png)
+
