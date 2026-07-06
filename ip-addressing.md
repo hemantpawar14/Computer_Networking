@@ -15,7 +15,7 @@
 
 ---
 
-## Types of IP Addresses
+#### Types of IP Addresses
 
 # There are two types of IP (Internet protocol)
 > IPv4 (Internet Protocol version 4)
