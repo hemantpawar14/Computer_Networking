@@ -91,3 +91,16 @@ Every IPv4 address consists of two logical parts:
 | E | 240.0.0.0 – 255.255.255.255 | N/A | Experimental |
 
 ---
+
+## Public vs Private IP Addresses
+
+### Public IP Address
+- Assigned by an Internet Service Provider (ISP).
+- Accessible over the Internet.
+- Used for communication between external networks.
+
+### Private IP Address
+- Used within local area networks (LANs).
+- Not directly accessible from the Internet.
+- Conserves public IP addresses.
+
