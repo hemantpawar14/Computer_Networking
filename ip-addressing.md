@@ -63,3 +63,31 @@ Total = 32 bits
 ```
 
 ---
+
+
+## Components of an IP Address
+
+Every IPv4 address consists of two logical parts:
+
+```text
++----------------+----------------+
+|   Network ID   |    Host ID     |
++----------------+----------------+
+```
+
+- **Network ID:** Identifies the network to which the device belongs.
+- **Host ID:** Identifies a specific device within that network.
+
+---
+
+## IP Address Classes
+
+| Class | Address Range | Default Subnet Mask | Purpose |
+|-------|---------------------------|-----------------|----------------|
+| A | 1.0.0.0 – 126.255.255.255 | 255.0.0.0 (/8) | Large Networks |
+| B | 128.0.0.0 – 191.255.255.255 | 255.255.0.0 (/16) | Medium Networks |
+| C | 192.0.0.0 – 223.255.255.255 | 255.255.255.0 (/24) | Small Networks |
+| D | 224.0.0.0 – 239.255.255.255 | N/A | Multicast |
+| E | 240.0.0.0 – 255.255.255.255 | N/A | Experimental |
+
+---
