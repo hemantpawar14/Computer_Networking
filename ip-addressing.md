@@ -15,11 +15,11 @@
 
 ---
 
-#### Types of IP Addresses
+#Types of IP Addresses
 
-# There are two types of IP (Internet protocol)
-> IPv4 (Internet Protocol version 4)
-> IPv6 (Internet Protocol version 6)
+#### There are two types of IP (Internet protocol)
+- IPv4 (Internet Protocol version 4)
+- IPv6 (Internet Protocol version 6)
 
 ### IPv4 (Internet Protocol Version 4)
 
