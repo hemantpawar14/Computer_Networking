@@ -109,4 +109,12 @@ Every IPv4 address consists of two logical parts:
 ## Overview
 
 ![IP Addressing](images/IP_Addressing.png)
+---
 
+## Key Takeaways
+
+- An **IP Address** is a unique logical identifier assigned to a network device.
+- **IPv4** uses **32-bit** addresses, while **IPv6** uses **128-bit** addresses.
+- Every IPv4 address consists of a **Network ID** and a **Host ID**.
+- IP addresses are categorized into **five classes (A–E)** based on network size and purpose.
+- Devices can use either **Public** or **Private** IP addresses depending on the network environment.
