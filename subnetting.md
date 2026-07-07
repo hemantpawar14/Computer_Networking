@@ -121,3 +121,37 @@ Divide it into **4 subnets**.
 - Borrow **2 bits**
 - New prefix: **/26**
 - Subnet mask: **255.255.255.192**
+
+  | Subnet | Host Range | Broadcast |
+|---------|------------|-----------|
+| 192.168.1.0/26 | 192.168.1.1 – 192.168.1.62 | 192.168.1.63 |
+| 192.168.1.64/26 | 192.168.1.65 – 192.168.1.126 | 192.168.1.127 |
+| 192.168.1.128/26 | 192.168.1.129 – 192.168.1.190 | 192.168.1.191 |
+| 192.168.1.192/26 | 192.168.1.193 – 192.168.1.254 | 192.168.1.255 |
+
+---
+
+## FLSM vs VLSM
+
+| FLSM | VLSM |
+|------|------|
+| Fixed subnet size | Variable subnet size |
+| Same subnet mask for all subnets | Different subnet masks |
+| Easier to configure | Better IP address utilization |
+| May waste IP addresses | Minimizes IP address wastage |
+
+---
+
+## Quick Summary
+
+- **Subnetting** divides a large network into smaller subnetworks.
+- **Subnet Mask** separates the Network ID and Host ID.
+- **CIDR** represents the subnet mask using prefix notation (e.g., `/24`).
+- **Network Address** is the first IP of a subnet.
+- **Broadcast Address** is the last IP of a subnet.
+- **Host Addresses** are the usable IP addresses between the network and broadcast addresses.
+- **Subnets Formula:** `2ⁿ`
+- **Hosts Formula:** `2ʰ − 2`
+
+---
+
