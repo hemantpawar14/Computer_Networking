@@ -27,3 +27,14 @@ The **first IP address** of a subnet. It identifies the subnet and **cannot** be
 ```
 
 ---
+
+
+### Host Address
+The IP addresses that can be assigned to devices within a subnet.
+
+**Example:**
+```text
+192.168.1.1 – 192.168.1.254
+```
+
+---
