@@ -80,3 +80,30 @@ CIDR is a notation used to represent the subnet mask using a prefix length.
 Here, `/24` means the first **24 bits** represent the network portion.
 
 ---
+
+## Subnetting Formula
+
+### Number of Subnets
+
+```text
+2ⁿ
+```
+
+Where:
+
+- **n** = Number of borrowed bits
+
+---
+
+### Number of Hosts per Subnet
+
+```text
+2ʰ − 2
+```
+
+Where:
+
+- **h** = Number of host bits
+- `-2` accounts for the **Network Address** and **Broadcast Address**.
+
+---
