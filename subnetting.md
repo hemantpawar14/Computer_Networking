@@ -107,3 +107,17 @@ Where:
 - `-2` accounts for the **Network Address** and **Broadcast Address**.
 
 ---
+
+## Example
+
+Given the network:
+
+```text
+192.168.1.0/24
+```
+
+Divide it into **4 subnets**.
+
+- Borrow **2 bits**
+- New prefix: **/26**
+- Subnet mask: **255.255.255.192**
