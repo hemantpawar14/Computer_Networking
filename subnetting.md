@@ -142,6 +142,10 @@ Divide it into **4 subnets**.
 
 ---
 
+![Computer Networking](images/subnetting.png)
+
+---
+
 ## Quick Summary
 
 - **Subnetting** divides a large network into smaller subnetworks.
