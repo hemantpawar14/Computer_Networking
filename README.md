@@ -27,6 +27,7 @@ This repository serves as my personal knowledge base for networking fundamentals
 -Document practical networking knowledge and labs
 
 ### 📂 Repository Structure
+
 Computer_Networking/
 ├── README.md
 ├── OSI-Model/
