@@ -8,14 +8,6 @@ A structured collection of my Computer Networking notes, concepts, and lab exerc
 
 This repository serves as my personal knowledge base for networking fundamentals that are essential for Cloud and DevOps technologies. The notes are written in a simple and organized manner for quick revision and practical understanding.
 
-📚 Topics Covered
-📌 OSI Model
-📌 TCP/IP Model
-📌 IP Addressing
-📌 Subnetting
-📌 DNS (Domain Name System)
-📌 HTTP & HTTPS
-📌 SSH (Secure Shell)
 
 ---
 
@@ -27,16 +19,16 @@ This repository serves as my personal knowledge base for networking fundamentals
 -Document practical networking knowledge and labs
 
 ### 📂 Repository Structure
+## 📂 Repository Structure
 
-Computer_Networking/
-├── README.md
-├── OSI-Model/
-├── TCP-IP-Model/
-├── IP-Addressing/
-├── Subnetting/
-├── DNS/
-├── HTTP-HTTPS/
-└── SSH/
+- 🌐 [OSI Model](./osi-model.md)
+- 🌐 [TCP/IP Model](./tcp-ip-model.md)
+- 🌐 [IP Addressing](./ip-addressing.md)
+- 🌐 [Subnetting](./subnetting.md)
+- 🌐 [DNS](./dns.md)
+- 🌐 [HTTP & HTTPS](./http-https.md)
+- 🌐 [SSH](./ssh.md)
+- 🖼️ [Images](./images)
 ---
 
 ### 🚀 Why This Repository?
