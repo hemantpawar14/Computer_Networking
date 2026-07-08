@@ -1,21 +1,4 @@
-# Computer_Networking
-My networking notes and labs for Cloud &amp; DevOps learning.
-
-# Computer Networking Notes
-
-Welcome!
-
-This repository contains my networking notes while learning Cloud & DevOps.
-
-## Topics
-
-- OSI Model
-- TCP/IP Model
-- IP Addressing
-- Subnetting
-- DNS
-- HTTP & HTTPS
-- SSH
-
-I update this repository regularly as I learn.
-Thank you..
+![GitHub Repo stars](https://img.shields.io/github/stars/hemantpawar14/Computer_Networking?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/hemantpawar14/Computer_Networking?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Notes-Markdown-blue?style=for-the-badge)
+![Learning-Cloud & DevOps-orange?style=for-the-badge)
