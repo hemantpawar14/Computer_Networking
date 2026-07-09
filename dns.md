@@ -47,4 +47,19 @@ Returns IP Address
 Browser loads the website
 ```
 
+## 🏗️ DNS Hierarchy
+
+```text
+            Root (.)
+               │
+        ┌──────┴──────┐
+       .com         .org
+         │
+      google
+         │
+   www.google.com
+```
+
+---
+
 ---
