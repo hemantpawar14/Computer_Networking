@@ -123,6 +123,15 @@ DNS temporarily stores resolved domain names to improve performance.
 
 ![Computer_Networking](images/DNS.png)
 
+---
+## ⭐ Key Points
+- DNS stands for **Domain Name System**.
+- Converts **Domain Names → IP Addresses**.
+- Works in a **hierarchical and distributed** manner.
+- Main servers: **Resolver, Root, TLD, and Authoritative Server**.
+- Common records: **A, AAAA, CNAME, MX, NS, and TXT**.
+- Makes the Internet user-friendly by eliminating the need to remember IP addresses.
 
+---
 
 
