@@ -119,6 +119,10 @@ DNS temporarily stores resolved domain names to improve performance.
 
 ---
 
+## Overview
+
+![Computer_Networking](images/DNS.png)
+
 
 
 
