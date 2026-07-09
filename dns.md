@@ -112,6 +112,13 @@ DNS temporarily stores resolved domain names to improve performance.
 
 ---
 
+## 🔐 DNS Security Threats
+- **DNS Spoofing:** Redirecting users to fake websites.
+- **DNS Cache Poisoning:** Corrupting cached DNS entries.
+- **DDoS Attacks:** Overloading DNS servers with excessive requests.
+
+---
+
 
 
 
