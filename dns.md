@@ -20,4 +20,31 @@ www.google.com  →  142.250.182.14
 
 ---
 
+## ⚙️ How DNS Works
 
+```text
+User enters www.google.com
+          │
+          ▼
+Browser Cache
+          │
+          ▼
+DNS Resolver
+          │
+          ▼
+Root Server (.)
+          │
+          ▼
+TLD Server (.com)
+          │
+          ▼
+Authoritative DNS Server
+          │
+          ▼
+Returns IP Address
+          │
+          ▼
+Browser loads the website
+```
+
+---
