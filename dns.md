@@ -101,3 +101,17 @@ The DNS server returns the final answer or an error.
 The DNS server returns the best information it has and refers the client to another server.
 
 ---
+
+## ⚡ DNS Caching
+DNS temporarily stores resolved domain names to improve performance.
+
+**Advantages:**
+- Faster website loading
+- Reduced network traffic
+- Lower load on DNS servers
+
+---
+
+
+
+
