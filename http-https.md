@@ -131,6 +131,10 @@ Browser Displays Secure Web Page
 
 ---
 
+## Overview
+
+![Http-Https_Diagarm](images/HTTP-HTTPS.png)
+
 # 📝 Key Points
 
 - HTTP is used for transferring web pages and resources over the internet.
