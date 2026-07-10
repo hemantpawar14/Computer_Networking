@@ -39,3 +39,32 @@ Remote Server
 ```
 
 ---
+
+## 🔑 SSH Authentication Methods
+
+### 1. Password Authentication
+- User enters username and password.
+- Server verifies credentials.
+- Secure connection is established.
+
+### 2. Public Key Authentication (Recommended)
+- User generates an SSH key pair.
+- Public key is stored on the server.
+- Private key remains on the local machine.
+- Server verifies the key and grants access.
+
+---
+
+## 🔐 SSH Key Pair
+
+```text
+SSH Key Pair
+│
+├── Public Key  → Shared with Server/GitHub
+└── Private Key → Kept Secret on Your Computer
+```
+
+---
+
+
+
