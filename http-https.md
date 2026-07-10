@@ -117,3 +117,24 @@ Browser Displays Secure Web Page
 | URL Prefix | `http://` | `https://` |
 
 ---
+
+
+# 🌍 Real-World Examples
+
+| Website Type | Protocol Used |
+|--------------|---------------|
+| Blog or Test Website | HTTP |
+| Banking Website | HTTPS |
+| E-Commerce Website | HTTPS |
+| Social Media Website | HTTPS |
+| Online Payment System | HTTPS |
+
+---
+
+# 📝 Key Points
+
+- HTTP is used for transferring web pages and resources over the internet.
+- HTTP is **stateless** and uses **Port 80**.
+- HTTPS is the secure version of HTTP and uses **SSL/TLS encryption**.
+- HTTPS uses **Port 443** and ensures **Confidentiality, Integrity, and Authentication**.
+- Modern websites prefer **HTTPS** to protect user data and improve security.
