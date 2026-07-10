@@ -66,5 +66,92 @@ SSH Key Pair
 
 ---
 
+## 📂 Common SSH Commands
+
+### Generate SSH Key
+
+```bash
+ssh-keygen -t ed25519 -C "your-email@example.com"
+```
+
+### Start SSH Agent
+
+```bash
+eval "$(ssh-agent -s)"
+```
+
+### Add Key to SSH Agent
+
+```bash
+ssh-add ~/.ssh/id_ed25519
+```
+
+### Display Public Key
+
+```bash
+cat ~/.ssh/id_ed25519.pub
+```
+
+### Connect to Remote Server
+
+```bash
+ssh username@server-ip
+```
+
+### Test GitHub Connection
+
+```bash
+ssh -T git@github.com
+```
+
+---
+
+## 🔄 SSH Working Flow
+
+```text
+1. Client initiates SSH connection
+            │
+            ▼
+2. Server sends public key information
+            │
+            ▼
+3. Client verifies server identity
+            │
+            ▼
+4. Authentication (Password or SSH Key)
+            │
+            ▼
+5. Session keys are generated
+            │
+            ▼
+6. Secure encrypted communication starts
+```
+
+---
+
+
+## 🌐 SSH in GitHub
+
+SSH allows you to interact with GitHub repositories securely without entering your username and password every time.
+
+### Clone Repository
+
+```bash
+git clone git@github.com:username/repository.git
+```
+
+### Push Changes
+
+```bash
+git push origin main
+```
+
+### Pull Changes
+
+```bash
+git pull origin main
+```
+
+---
 
 
