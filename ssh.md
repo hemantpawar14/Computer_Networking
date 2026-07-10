@@ -154,4 +154,15 @@ git pull origin main
 
 ---
 
+## ⚡ Advantages of SSH
+
+- Encrypted communication
+- Strong authentication mechanism
+- Secure remote administration
+- Supports automation and scripting
+- More secure than Telnet
+- Widely used with Git and GitHub
+
+---
+
 
