@@ -165,4 +165,14 @@ git pull origin main
 
 ---
 
+## Overview 
 
+![SSH_Diagarm](images/SSH.png)
+
+## 📝 Key Points
+
+- SSH stands for **Secure Shell**.
+- SSH works at the **Application Layer**.
+- It uses **TCP Port 22**.
+- SSH provides **Encryption, Authentication, and Data Integrity**.
+- SSH is commonly used for **Remote Login, File Transfer, Server Management, and GitHub Authentication**.
