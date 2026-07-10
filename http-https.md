@@ -93,3 +93,27 @@ Browser Displays Secure Web Page
 
 ---
 
+## ✅ Features of HTTPS
+
+- Data Encryption
+- Authentication using SSL Certificates
+- Data Integrity
+- Protection against cyber attacks
+- Secure online transactions
+
+---
+
+# ⚖️ HTTP vs HTTPS
+
+| Feature | HTTP | HTTPS |
+|---------|------|-------|
+| Full Form | HyperText Transfer Protocol | HyperText Transfer Protocol Secure |
+| Security | Not Secure | Secure |
+| Encryption | No | Yes (SSL/TLS) |
+| Default Port | 80 | 443 |
+| Data Transfer | Plain Text | Encrypted |
+| Certificate Required | No | Yes |
+| Performance | Slightly Faster | Slightly Slower due to encryption |
+| URL Prefix | `http://` | `https://` |
+
+---
