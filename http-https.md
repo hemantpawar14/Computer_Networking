@@ -60,3 +60,36 @@ Browser Displays Web Page
   - Session hijacking
 
 ---
+
+# 🔒 What is HTTPS?
+
+**HTTPS (HyperText Transfer Protocol Secure)** is the secure version of HTTP. It uses **SSL/TLS encryption** to protect communication between the browser and the web server.
+
+- **Full Form:** HyperText Transfer Protocol Secure
+- **Layer:** Application Layer
+- **Default Port:** 443
+- **Protocol Type:** Secure and Encrypted
+- **Transport Protocol:** TCP + SSL/TLS
+
+---
+
+## 🔄 How HTTPS Works
+
+```text
+Browser (Client)
+       │
+       │  TLS Handshake
+       ▼
+Authentication & Encryption
+       │
+       │  Secure HTTPS Request
+       ▼
+Web Server
+       │
+       │  Encrypted HTTPS Response
+       ▼
+Browser Displays Secure Web Page
+```
+
+---
+
